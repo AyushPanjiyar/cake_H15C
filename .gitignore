@@ -1,2 +1,9 @@
 no-commit/
 node_modules/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+/dist
+/build
